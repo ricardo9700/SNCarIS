@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Settings" section_id="271e8b12db42330039bb294648961959" sys_domain="global" table="x_370070_cis_insurance_user" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_password</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>1d4e0f12db42330039bb2946489619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>9d4e0f12db42330039bb2946489619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>locked_out</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>114e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>914e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>154e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>954e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>194e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_format</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>994e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_integration</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:40:25</sys_created_on>
+            <sys_id>1d4e0f12db42330039bb2946489619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Settings" display_value="Settings" name="x_370070_cis_insurance_user" sys_domain="global" view="Default view">271e8b12db42330039bb294648961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:40:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Settings</caption>
+            <header>false</header>
+            <name>x_370070_cis_insurance_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 15:39:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>271e8b12db42330039bb294648961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Settings</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+            <sys_update_name>sys_ui_section_271e8b12db42330039bb294648961959</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 15:39:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
