@@ -2,5 +2,6 @@
     <element extends="sys_user" label="Insurance User" max_length="40" name="x_370070_cis_insurance_user" type="collection">
         <element label="Age" max_length="40" name="age" type="integer"/>
         <element label="Driver license" max_length="40" name="driver_license" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
     </element>
 </database>
