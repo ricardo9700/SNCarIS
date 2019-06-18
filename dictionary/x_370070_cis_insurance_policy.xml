@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Insurance policy" max_length="40" name="x_370070_cis_insurance_policy" type="collection">
+        <element label="Contract Date" mandatory="true" max_length="40" name="contract_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="5000" name="description" type="string"/>
+        <element label="End Date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Insurance User" mandatory="true" max_length="32" name="insurance_user" reference="x_370070_cis_insurance_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="notes" type="journal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <index name="index">
+            <element name="insurance_user"/>
+        </index>
+    </element>
+</database>

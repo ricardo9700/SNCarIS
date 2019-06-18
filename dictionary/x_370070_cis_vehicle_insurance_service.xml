@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Vehicle Insurance Service" max_length="40" name="x_370070_cis_vehicle_insurance_service" type="collection">
+        <element label="Insurance User" mandatory="true" max_length="32" name="insurance_user" reference="x_370070_cis_insurance_user" type="reference"/>
+        <element label="Vehicle requester" mandatory="true" max_length="32" name="services_vehicle" reference="x_370070_cis_vehicle" type="reference"/>
+        <element choice="1" label="Service Type" max_length="40" name="service_type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
