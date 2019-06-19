@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>CIS - Check insurance policy end date</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2019-06-19 15:05:04</run_start>
+        <run_time>1970-01-01 10:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[//Por medio de este job se determina si una poliza esta activa o no, se revisa para cada poliza que la fecha de hoy sea menor a la fecha de vigencia de la poliza (end_date), en caso contrario el campo active pasa a false (se desactiva la poliza)
+
+var actual_date = new GlideDateTime();
+
+var policy = new GlideRecord("x_370070_cis_insurance_policy");
+policy.addQuery("active",true);
+policy.query();
+
+while(policy.next()){
+	//revisar si la fecha end_Date es menor a la actual
+	var end_date = new GlideDateTime(policy.end_date);
+	var dur= new GlideDateTime.subtract(actual_date,end_date);
+	var duration_days =dur.getDayPart();
+	
+	if(duration_days<0){
+		policy.active=false;
+		policy.notes = "Policy set inactive automatically";
+		policy.update();
+	}
+	
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 15:49:08</sys_created_on>
+        <sys_id>3a599947db02330039bb294648961998</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CIS - Check insurance policy end date</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sysauto_script_3a599947db02330039bb294648961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 16:07:10</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Insurance policy" max_length="40" name="x_370070_cis_insurance_policy" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Contract Date" mandatory="true" max_length="40" name="contract_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="5000" name="description" type="string"/>
         <element label="End Date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
