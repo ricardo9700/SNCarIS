@@ -6,6 +6,7 @@
         <element label="Invoice Value" mandatory="true" max_length="20" name="invoice_value" type="currency"/>
         <element label="Model" mandatory="true" max_length="200" name="model" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial Number" mandatory="true" max_length="40" name="serial_number" type="string"/>
+        <element display="true" label="Vehicle Display Field" max_length="300" name="vehicle_display_field" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Vehicle ID" mandatory="true" max_length="40" name="vehicle_id" type="string"/>
         <element label="Year" mandatory="true" max_length="40" name="year" type="integer"/>
         <index name="index">
