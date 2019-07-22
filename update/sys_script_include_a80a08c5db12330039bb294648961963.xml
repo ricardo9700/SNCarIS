@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_370070_cis.getActeualDatePlus1Year</api_name>
+        <client_callable>false</client_callable>
+        <description>Con este script se obtiene la fecha actual pero del año siguiente</description>
+        <name>getActeualDatePlus1Year</name>
+        <script><![CDATA[function getActeualDatePlus1Year(){
+	
+	//obtencion de fecha actual
+	
+	var date_time = new GlideDateTime();
+	date_time.addYearsUTC(1);
+	var actual_date = date_time.getDate();
+	
+	
+	return actual_date;
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 14:41:36</sys_created_on>
+        <sys_id>a80a08c5db12330039bb294648961963</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>getActeualDatePlus1Year</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_script_include_a80a08c5db12330039bb294648961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 14:43:07</sys_updated_on>
+    </sys_script_include>
+</record_update>

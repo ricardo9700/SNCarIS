@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="content_page" unload_date="2019-07-22 14:09:53">
+    <sys_portal action="delete_multiple" query="page=0e108143db52330039bb2946489619a3">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Portal - Content Column Common</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>16108583db52330039bb2946489619a7</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619ab</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>16108583db52330039bb2946489619af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>Portal - Header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619ab</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>52108583db52330039bb2946489619af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619ab</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>96108583db52330039bb2946489619ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>34c60a140a0a0b9700439f6f043e431d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619ab</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9e108583db52330039bb2946489619ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619ab</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>da108583db52330039bb2946489619ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Portal - Header</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>16108583db52330039bb2946489619ab</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">5e108583db52330039bb2946489619b3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>1a108583db52330039bb2946489619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">5e108583db52330039bb2946489619b3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>56108583db52330039bb2946489619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>Portal - Nav Column Common</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">5e108583db52330039bb2946489619b3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9e108583db52330039bb2946489619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>55bde306ef230000914304167b2256a4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">5e108583db52330039bb2946489619b3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>d2108583db52330039bb2946489619b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">5e108583db52330039bb2946489619b3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>da108583db52330039bb2946489619b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>0</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Portal - Nav Column Common</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>5e108583db52330039bb2946489619b3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">82108583db52330039bb29464896199e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>16108583db52330039bb2946489619a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">82108583db52330039bb29464896199e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>1a108583db52330039bb2946489619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">82108583db52330039bb29464896199e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9e108583db52330039bb2946489619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>9f5065640a0a0bf0001f746cc2db008b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">82108583db52330039bb29464896199e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>da108583db52330039bb2946489619a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_lists</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">82108583db52330039bb29464896199e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>de108583db52330039bb2946489619a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>My Recent Updates</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>3</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>My Recent Updates</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>82108583db52330039bb29464896199e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">96108583db52330039bb2946489619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>16108583db52330039bb2946489619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">96108583db52330039bb2946489619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>52108583db52330039bb2946489619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">96108583db52330039bb2946489619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>5e108583db52330039bb2946489619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ced33550a0a0bb101043ff1f93fad43</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">96108583db52330039bb2946489619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9a108583db52330039bb2946489619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">96108583db52330039bb2946489619b8</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>d6108583db52330039bb2946489619bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>Create Incident</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>1</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Create Incident</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>96108583db52330039bb2946489619b8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>52108583db52330039bb2946489619a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_lists</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>96108583db52330039bb2946489619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>580e6b350a0a0bdd00a176ca4f9dc139</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9e108583db52330039bb2946489619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>Common Answers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>d2108583db52330039bb2946489619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619a3</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>da108583db52330039bb2946489619a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone20</dropzone>
+                <offset>1</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Common Answers</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>d6108583db52330039bb2946489619a3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619af</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>16108583db52330039bb2946489619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>Portal - Footer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619af</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>1e108583db52330039bb2946489619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>67e6be630a0a0b42001db99dc8173e8e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619af</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>52108583db52330039bb2946489619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619af</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>9a108583db52330039bb2946489619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2019-07-01 16:30:24">d6108583db52330039bb2946489619af</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                        <sys_id>d6108583db52330039bb2946489619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>0</offset>
+                <page display_value="Create Incident | ESS Portal">0e108143db52330039bb2946489619a3</page>
+                <summary>Portal - Footer</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>d6108583db52330039bb2946489619af</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+            </sys_portal>
+        </related_items_node>
+        <related_items_node>
+            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                <name>renderer</name>
+                <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619a7</portal_section>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>1a108583db52330039bb2946489619aa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <value>com.glide.cms.RenderBlock</value>
+            </sys_portal_preferences>
+            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                <name>title</name>
+                <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619a7</portal_section>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>52108583db52330039bb2946489619ab</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <value>Portal - Content Column Common</value>
+            </sys_portal_preferences>
+            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                <name>current_page</name>
+                <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619a7</portal_section>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>9e108583db52330039bb2946489619aa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <value>5ce7c4d10a0a0bb10142f127f192d4f9</value>
+            </sys_portal_preferences>
+            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                <name>sys_id</name>
+                <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619a7</portal_section>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>d2108583db52330039bb2946489619aa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <value>22be2306ef230000914304167b2256df</value>
+            </sys_portal_preferences>
+            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                <name>type</name>
+                <portal_section display_value="Created 2019-07-01 16:30:24">16108583db52330039bb2946489619a7</portal_section>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-07-01 23:30:24</sys_created_on>
+                <sys_id>da108583db52330039bb2946489619aa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-07-01 23:30:24</sys_updated_on>
+                <value>content_block_programmatic</value>
+            </sys_portal_preferences>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="Employee Self-Service">5767a89fc0a8016b012f6aecb0c816a4</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout/>
+        <model_id/>
+        <model_table/>
+        <name>Portal - New Service Request</name>
+        <order/>
+        <parent_page/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 23:30:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e108143db52330039bb2946489619a3</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Portal - New Service Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>content_page_0e108143db52330039bb2946489619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-01 23:32:12</sys_updated_on>
+        <title>Create Incident | ESS Portal</title>
+        <url_suffix>new_service_request</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>draft</workflow_state>
+    </content_page>
+</record_update>

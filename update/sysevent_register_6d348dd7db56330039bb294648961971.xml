@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>Si una poliza se desactivara en menos de 30 dias se le avisa al usuario</description>
+        <event_name>x_370070_cis.policy going down</event_name>
+        <fired_by>Scheduled job</fired_by>
+        <queue/>
+        <suffix>policy going down</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-02 18:28:23</sys_created_on>
+        <sys_id>6d348dd7db56330039bb294648961971</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_370070_cis.policy going down</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sysevent_register_6d348dd7db56330039bb294648961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 02:49:45</sys_updated_on>
+        <table>x_370070_cis_insurance_policy</table>
+    </sysevent_register>
+</record_update>
