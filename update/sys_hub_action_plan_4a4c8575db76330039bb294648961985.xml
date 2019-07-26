@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Get address from coordinates">e5f805f1db76330039bb294648961921</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"4a4c8575db76330039bb294648961985","name":"plan"}}</plan>
+        <snapshot>91861df9db76330039bb2946489619ac</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 23:42:37</sys_created_on>
+        <sys_id>4a4c8575db76330039bb294648961985</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>e5f805f1db76330039bb294648961921</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_hub_action_plan_4a4c8575db76330039bb294648961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 00:27:23</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>

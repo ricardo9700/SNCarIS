@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" label="Vehicle Insurance Service" max_length="40" name="x_370070_cis_vehicle_insurance_service" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="1000" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Geolocation" max_length="100" name="geolocation" type="string"/>
         <element default="javascript: gs.getUserID();" label="Insurance User" mandatory="true" max_length="32" name="insurance_user" reference="x_370070_cis_insurance_user" type="reference"/>
         <element label="Vehicle requester" mandatory="true" max_length="32" name="services_vehicle" reference="x_370070_cis_vehicle" reference_qual="javascript: getValidVehiclerequester(current.insurance_user);" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Service Center" max_length="32" name="service_center" reference="x_370070_cis_service_center" type="reference"/>
         <element choice="1" label="Service Type" mandatory="true" max_length="40" name="service_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Accident" sequence="0" value="accident"/>
@@ -11,5 +14,6 @@
         </element>
         <element label="Third Party Affected" max_length="40" name="third_party_affected" type="boolean"/>
         <element label="Vehicle Loan" max_length="40" name="vehicleloan" type="boolean"/>
+        <element label="Includes vehicle loan" max_length="40" name="vehicle_loan" type="boolean"/>
     </element>
 </database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="country" label="country" language="en" table="var__m_sys_hub_action_output_e1861df9db76330039bb2946489619fb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <help/>
+            <hint/>
+            <label>country</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_e1861df9db76330039bb2946489619fb</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-23 00:27:23</sys_created_on>
+            <sys_id>39865df9db76330039bb294648961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>country</sys_name>
+            <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_e1861df9db76330039bb2946489619fb_country_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-23 00:27:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

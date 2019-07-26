@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>f6de9be1db72330039bb294648961903</id>
+        <name>Set Service Center Coordinates</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:44:33</sys_created_on>
+        <sys_id>43de9be1db72330039bb294648961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Service Center Coordinates</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_43de9be1db72330039bb294648961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:44:33</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

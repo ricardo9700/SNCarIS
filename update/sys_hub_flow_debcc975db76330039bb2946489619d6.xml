@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from>89b79fe5db32330039bb2946489619e4</copied_from>
+        <copied_from_name>Set Service Center Coordinates</copied_from_name>
+        <description>calculate coordinates</description>
+        <internal_name>set_service_center_address</internal_name>
+        <label_cache>[{"name":"429dd657-63ba-44c5-b988-28494ddb014a.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"429dd657-63ba-44c5-b988-28494ddb014a.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created or Updated_1.current.longitude","label":"Trigger➛Service Center Record➛Longitude","reference":"","reference_display":"Longitude","type":"float","base_type":"float","parent_table_name":"x_370070_cis_service_center","column_name":"longitude"},{"name":"Created or Updated_1.current.latitude","label":"Trigger➛Service Center Record➛Latitude","reference":"","reference_display":"Latitude","type":"float","base_type":"float","parent_table_name":"x_370070_cis_service_center","column_name":"latitude"},{"name":"9a2081fa-ad89-4e37-a3ed-d62b5be07ae7.country","label":"2➛country","reference_display":"country","type":"string","base_type":"string"},{"name":"9a2081fa-ad89-4e37-a3ed-d62b5be07ae7.zip","label":"2➛zip","reference_display":"zip","type":"string","base_type":"string"},{"name":"9a2081fa-ad89-4e37-a3ed-d62b5be07ae7.state","label":"2➛state","reference_display":"state","type":"string","base_type":"string"},{"name":"9a2081fa-ad89-4e37-a3ed-d62b5be07ae7.city","label":"2➛city","reference_display":"city","type":"string","base_type":"string"},{"name":"9a2081fa-ad89-4e37-a3ed-d62b5be07ae7.responsebody","label":"2➛street","reference_display":"street","type":"string","base_type":"string"},{"name":"69780075-bcfa-4cae-a71f-ce6826ee8d96.country","label":"1➛country","type":"string","base_type":"string"},{"name":"69780075-bcfa-4cae-a71f-ce6826ee8d96.zip","label":"1➛zip","type":"string","base_type":"string"},{"name":"69780075-bcfa-4cae-a71f-ce6826ee8d96.state","label":"1➛state","type":"string","base_type":"string"},{"name":"69780075-bcfa-4cae-a71f-ce6826ee8d96.city","label":"1➛city","type":"string","base_type":"string"},{"name":"Created or Updated_1.current","label":"Trigger➛Service Center Record","reference":"x_370070_cis_service_center","reference_display":"Service Center","type":"reference","base_type":"reference"},{"name":"e9571569-44f5-4edc-b012-e8f849f5f592.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"e9571569-44f5-4edc-b012-e8f849f5f592.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"24665b53-37ba-4aaf-babe-487f031c3341.lng","label":"1➛lng","reference_display":"lng","type":"string","base_type":"string"},{"name":"24665b53-37ba-4aaf-babe-487f031c3341.responsebody","label":"1➛lat","reference_display":"lat","type":"string","base_type":"string"},{"name":"Created or Updated_1.current.street","label":"Trigger➛Service Center Record➛Street","reference":"","reference_display":"Street","type":"multi_two_lines","base_type":"multi_two_lines","parent_table_name":"x_370070_cis_service_center","column_name":"street"},{"name":"Created or Updated_1.current.city","label":"Trigger➛Service Center Record➛City","reference":"","reference_display":"City","type":"string","base_type":"string","parent_table_name":"x_370070_cis_service_center","column_name":"city"},{"name":"Created or Updated_1.current.state","label":"Trigger➛Service Center Record➛State / Province","reference":"","reference_display":"State / Province","type":"string","base_type":"string","parent_table_name":"x_370070_cis_service_center","column_name":"state"},{"name":"Created or Updated_1.current.zip","label":"Trigger➛Service Center Record➛Zip / Postal Code","reference":"","reference_display":"Zip / Postal Code","type":"string","base_type":"string","parent_table_name":"x_370070_cis_service_center","column_name":"zip"},{"name":"Created or Updated_1.current.country","label":"Trigger➛Service Center Record➛Country","reference":"","reference_display":"Country","type":"string","base_type":"string","parent_table_name":"x_370070_cis_service_center","column_name":"country"},{"name":"69780075-bcfa-4cae-a71f-ce6826ee8d96.responsebody","label":"1➛street","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot>8827553ddb76330039bb294648961980</latest_snapshot>
+        <master_snapshot>8307d13ddb76330039bb294648961989</master_snapshot>
+        <name>Set Service Center Address</name>
+        <outputs/>
+        <remote_trigger_id>9b07d13ddb76330039bb2946489619e2</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 23:44:33</sys_created_on>
+        <sys_id>debcc975db76330039bb2946489619d6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Set Service Center Address</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_hub_flow_debcc975db76330039bb2946489619d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-23 00:30:00</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=debcc975db76330039bb2946489619d6"/>
+    <sys_variable_value action="delete_multiple" query="document_key=debcc975db76330039bb2946489619d6"/>
+</record_update>

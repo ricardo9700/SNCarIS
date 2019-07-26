@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Calculate the address of a car insurance service</description>
+        <internal_name>set_car_insurance_service_address</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current","label":"Trigger➛Vehicle Insurance Service Record","reference":"x_370070_cis_vehicle_insurance_service","reference_display":"Vehicle Insurance Service","type":"reference","base_type":"reference"},{"name":"7600a17d-4478-42e3-ae3a-ace3b77f3548.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"7600a17d-4478-42e3-ae3a-ace3b77f3548.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created or Updated_1.current.geolocation","label":"Trigger➛Vehicle Insurance Service Record➛Geolocation","reference":"","reference_display":"Geolocation","type":"string","base_type":"string","parent_table_name":"x_370070_cis_vehicle_insurance_service","column_name":"geolocation"},{"name":"d35d48f7-6284-4991-9342-639a0fd3d9ee.responsebody","label":"1➛Address","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot>397778f2db72330039bb2946489619c5</latest_snapshot>
+        <master_snapshot>786738f2db72330039bb294648961983</master_snapshot>
+        <name>Set Car Insurance Service Address</name>
+        <outputs/>
+        <remote_trigger_id>c56738f2db72330039bb2946489619d9</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-26 00:33:23</sys_created_on>
+        <sys_id>72a47872db72330039bb2946489619d4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Car Insurance Service Address</sys_name>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_hub_flow_72a47872db72330039bb2946489619d4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-26 00:45:36</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=72a47872db72330039bb2946489619d4"/>
+    <sys_variable_value action="delete_multiple" query="document_key=72a47872db72330039bb2946489619d4"/>
+</record_update>

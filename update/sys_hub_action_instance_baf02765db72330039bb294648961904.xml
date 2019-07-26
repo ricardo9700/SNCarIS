@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Get coordinates from address">ef1f9fe1db72330039bb294648961920</action_type>
+        <action_type_parent display_value="Get coordinates from address">af52d7e9db32330039bb2946489619bf</action_type_parent>
+        <comment/>
+        <compiled_snapshot>ef1f9fe1db72330039bb294648961920</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Set Service Center Coordinates">baf0e365db72330039bb2946489619e7</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>baf02765db72330039bb294648961904</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Car Insurance Services" source="x_370070_cis">180fbe12db02330039bb29464896195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Insurance Services">180fbe12db02330039bb29464896195a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_baf02765db72330039bb294648961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <ui_id>24665b53-37ba-4aaf-babe-487f031c3341</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=baf02765db72330039bb294648961904"/>
+    <sys_element_mapping action="delete_multiple" query="id=baf02765db72330039bb294648961904"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>city</field>
+        <id>baf02765db72330039bb294648961904</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>32f02765db72330039bb29464896190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ef1f9fe1db72330039bb294648961920</table>
+        <value>{{Created or Updated_1.current.city}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>country</field>
+        <id>baf02765db72330039bb294648961904</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>baf02765db72330039bb294648961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ef1f9fe1db72330039bb294648961920</table>
+        <value>{{Created or Updated_1.current.country}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>state_province</field>
+        <id>baf02765db72330039bb294648961904</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>7ef02765db72330039bb294648961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ef1f9fe1db72330039bb294648961920</table>
+        <value>{{Created or Updated_1.current.state}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>street</field>
+        <id>baf02765db72330039bb294648961904</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>f2f02765db72330039bb29464896190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ef1f9fe1db72330039bb294648961920</table>
+        <value>{{Created or Updated_1.current.street}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>zip_postal_code</field>
+        <id>baf02765db72330039bb294648961904</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-22 15:53:49</sys_created_on>
+        <sys_id>b6f02765db72330039bb29464896190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-22 15:53:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_ef1f9fe1db72330039bb294648961920</table>
+        <value>{{Created or Updated_1.current.zip}}</value>
+    </sys_element_mapping>
+</record_update>
